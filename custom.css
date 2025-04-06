@@ -1,5 +1,5 @@
 @import url('https://blade04208.github.io/ddex4/import.css');
-@import url(https://blade04208.github.io/ddex4/src/bubbles.css);
+@import url('https://blade04208.github.io/ddex4/src/bubbles.css');
 
 /* change USERNAME to your username */
 :not([data-author-username="jackcomas"]) {
